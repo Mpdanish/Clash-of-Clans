@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 79%;
+    height: 78.40px;
+    background-color: black;
+    display: flex;
+    margin-left: 10.3%;
+    position: fixed;
+
+}
+#img-1{
+    width: 54px;
+    padding-left: 15px;
+    padding-top: 16px;
+}
+.name{
+    display: flex;
+    color: white;
+    font-size: 15px;
+    padding-left: 336px;
+    padding-top: 12px;
+}
+.navbar{
+    list-style: none;
+    display: flex;
+    font-size: 16px;
+    block-size: 5px;
+    margin-left: -97%;
+    margin-top: 10px;
+}
+.navbar li {
+    margin: 0 12px;
+    margin-top: 10px;
+}
+.image{
+    width: 100%;
+    height: 580px;
+    background-image: url(hero_bg_clashofclans.webp);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro{
+    margin-left: -14%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#main_logo{
+    width: 23%;
+    padding-left: 38%;
+    padding-bottom: 12%;
+}
+.div_2{
+    display: flex;
+}
+.txt_1{
+    margin-left: -35%;
+    margin-top: 7%;
+}
+.icon{
+    display: flex;
+}
+.icon_1{
+    background-size: cover;
+    margin-right: 24px;
+    background-image: url(appstore.webp);
+    width: 170px;
+    height: 55px;
+    border-radius: 6px;
+    border: 1px solid  gray;
+    background-position: center;
+    cursor: pointer;
+}
+.icon_2{
+    background-size: cover;
+    margin-right: 24px;
+    background-image: url(googleplay.webp);
+    width: 170px;
+    height: 55px;
+    border-radius: 6px;
+    border: 1px solid  gray;
+    background-position: center;
+    cursor: pointer;
+}
+.icon_3{
+    background-size: cover;
+    margin-right: 24px;
+    background-image: url(amazon_appstore.webp);
+    width: 170px;
+    height: 55px;
+    border-radius: 6px;
+    border: 1px solid  gray;
+    background-position: center;
+    cursor: pointer;
+}
+.img-2{
+    overflow: hidden;
+    display: flex;
+    width: 100%;
+    height: 595px;
+    background-image: url(bg_gamesocial_clashofclans.6d3e064f.webp);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bg{
+    width: 85%;
+    margin-left: 45%;
+}
+#txt{
+    color: white;
+}
+#txt_1{
+    color: white;
+    width: 159%;
+    font-size: 23px;
+    font-weight: bold;
+}
+.fnl{
+    display: flex;
+    background-image: linear-gradient(rgb(36, 95, 198) 1%, rgb(40, 135, 240));
+    height: 191px;
+}
+.btn{
+    border-radius: 5px;
+    display: table;
+    padding: 10px 25px;
+    margin-top: 25px;
+    width: 32%;
+    margin-left: 30%;
+    border-style: none;
+}
+.ftr{
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 400px;
+    display: block; 
+}
+.common{
+    width: 170px;
+    height: 55px;
+    border-radius: 6px;
+    border: 1px solid  gray;
+    background-position: center;
+    cursor: pointer;
+    margin-top: -30px;
+}
+.badge{
+    display: flex;
+    padding-left: 60%;
+    margin-bottom: 30px;
+}
+.img1{
+    background-size: cover;
+    background-image: url(appstore.webp);
+    margin-right: 24px;
+}
+.img2{
+    background-size: cover;
+    background-image: url(googleplay.webp);
+}
+.ftr_txt{
+    display: flex; 
+    gap: 30px; 
+    list-style: none; 
+    padding-left: 15%;
+}
+#add{
+    padding-left: 15%;
+    font-size: 13px;
+    color: #666;
+}
+#li1{
+   cursor: pointer;
+   color: #666; 
+}
+#li2{
+   cursor: pointer;
+   color: #666; 
+}
+#li3{
+   cursor: pointer;
+   color: #666; 
+}
+#li4{
+   cursor: pointer;
+   color: #666; 
+}
+#li1:hover{
+
+    color: white;
+
+}
+#li2:hover{
+
+    color: white;
+
+}
+#li3:hover{
+
+    color: white;
+
+}
+#li4:hover{
+
+    color: white;
+
+}
+#ic1{
+    cursor: pointer;
+    color: #666; 
+}
+#ic2{
+    cursor: pointer;
+    color: #666; 
+}
+#ic3{
+    cursor: pointer;
+    color: #666; 
+}
+#ic4{
+    cursor: pointer;
+    color: #666; 
+}
+#ic5{
+    cursor: pointer;
+    color: #666; 
+}
